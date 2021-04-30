@@ -1,0 +1,14 @@
+C:\Users\dayvi\source\repos\SalesforceAPI\TriggeredEmail\bin\Debug\TriggeredEmail.exe.config
+C:\Users\dayvi\source\repos\SalesforceAPI\TriggeredEmail\bin\Debug\TriggeredEmail.exe
+C:\Users\dayvi\source\repos\SalesforceAPI\TriggeredEmail\bin\Debug\TriggeredEmail.pdb
+C:\Users\dayvi\source\repos\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.csprojAssemblyReference.cache
+C:\Users\dayvi\source\repos\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.csproj.CoreCompileInputs.cache
+C:\Users\dayvi\source\repos\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.exe
+C:\Users\dayvi\source\repos\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.pdb
+C:\Users\augus\Desktop\SalesforceAPI\TriggeredEmail\bin\Debug\TriggeredEmail.exe.config
+C:\Users\augus\Desktop\SalesforceAPI\TriggeredEmail\bin\Debug\TriggeredEmail.exe
+C:\Users\augus\Desktop\SalesforceAPI\TriggeredEmail\bin\Debug\TriggeredEmail.pdb
+C:\Users\augus\Desktop\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.csprojAssemblyReference.cache
+C:\Users\augus\Desktop\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.exe
+C:\Users\augus\Desktop\SalesforceAPI\TriggeredEmail\obj\Debug\TriggeredEmail.pdb
